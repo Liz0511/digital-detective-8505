@@ -73,3 +73,7 @@ A package manager helps us install and manage software on a computer.
 I used Terminal and practised these commands:
 
 `pwd`, `ls`, `cd`, `mkdir`, `touch`, `cp`, `mv`, `cat`, `echo`, `head` and Homebrew commands.
+
+##4. Difficulty Faced
+
+At first, I was confused about the difference between copying and renaming a file. After practising the cp and mv commands, I understood how they work.
