@@ -1,55 +1,39 @@
-# Mission 4 - How programs run
+# Mission 4 – How Programs Run
 
-## 1. Task / objective
-The aim was to create a small Python program, run it and understand the difference between a compiler and an interpreter.
+## 1. Task Completed
 
-## 2. Work completed
+In this mission, I created a simple Python program and learned how programs run using compilers and interpreters.
 
-I created a file called `hello.py`.
+## 2. Task 4.1 – Create and Run a Python Program
+
+I created a file called `hello.py` and wrote a simple print statement.
 
 ```python
 print("Hello from Python")
 ```
 
-To run it from the main assignment folder:
+I ran the program using this Terminal command:
 
-```bash
-python3 mission-04-programs/hello.py
-```
+`python3 hello.py`
 
-Expected output:
-
+**Output:**
 ```text
 Hello from Python
 ```
 
-### Compiler and interpreter
+## 3. Task 4.2 – Compiler and Interpreter Comparison
 
 | Point | Compiler | Interpreter |
 |---|---|---|
-| When it works | Usually translates the program before it runs | Executes instructions during runtime |
-| Output | Often creates another program file | Usually runs the code directly |
+| When it works | Translates code before execution. | Executes instructions at runtime. |
+| Typical output | Often creates machine code or another executable form. | Usually executes without creating a standalone executable. |
 | Example | C compiler | Python interpreter |
-| Advantage | Can make the final program run efficiently | Useful for testing code quickly |
+| Advantage | Compiled programs can run efficiently. | Makes testing and debugging easier. |
 
-## 3. Commands / tools used
-- `python3` - runs Python programs.
-- VS Code or another text editor - used to write the file.
+## 4. What I Understood
 
-## 4. My understanding
-A compiler translates the code before the program runs. An interpreter runs the instructions while the program is executing. I also learned that real programming languages can use a mix of both methods.
+A compiler translates the program before it runs, while an interpreter executes the instructions during runtime. Both are used to run programs. Python commonly uses an interpreter, which makes it easy to write and test small programs.
 
-## 5. Difficulties faced
-[Write what happened when you ran `hello.py`, or write "No major difficulties".]
+## 5. Difficulty Faced
 
-## 6. How I resolved them
-[Explain the fix if there was an error, or write "Not applicable".]
-
-## 7. Evidence / files
-- `hello.py`
-- [Add a screenshot of the output if available.]
-
-## 8. Commit details
-Commit message: `Compare compilers and interpreters`
-
-Commit and push status: [Update after doing it.]
+At first, I was not sure how to run a Python file from Terminal. I learned to use the `python3` command followed by the file name.
