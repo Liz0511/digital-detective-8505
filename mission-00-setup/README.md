@@ -1,37 +1,47 @@
-# Mission 0 - Create my GitHub workspace
+# Mission 0 – GitHub Workspace Setup
 
-## 1. Task / objective
-The task was to create a GitHub repository and make folders for all the missions.
+## Task Completed
 
-## 2. Work completed
-I prepared the folders from Mission 0 to Mission 8 and added a README file in each folder. I also made a main README file to explain what this assignment is about.
+I created my GitHub repository for the Digital Detective assignment and organised the folders for all the missions.
 
-- Repository name: `digital-detective-XXXX` [replace XXXX with your last four USN digits]
-- GitHub link: [add after creating your repository]
+**Repository Name:** `digital-detective-8505`
 
-## 3. Commands / tools used
-- `mkdir` - used to create folders.
-- `touch` - used to create empty files.
-- `git --version` - checks the Git version.
-- `python3 --version` - checks the Python version.
-- GitHub - used to keep the project online.
+**GitHub Username:** `Liz0511`
 
-**My version details:** [Run the two version commands and add your results here.]
+## Tools Checked
 
-## 4. My understanding
-A repository is a place where we keep our project files. Git also helps us track the changes we make. I kept every mission in a different folder because it makes the project easier to understand.
+I checked Python and Git versions using Terminal.
 
-## 5. Difficulties faced
-[Write what actually happened while setting up GitHub. If nothing went wrong, write "No major difficulties".]
+- **Python:** [Python 3.13.13
+- **Git:** [git version 2.54.0 (Apple Git-157]
 
-## 6. How I resolved them
-[Write how you fixed the issue, or write "Not applicable".]
+## Folders and Files Created
 
-## 7. Evidence / files
-- Main README file
-- Mission folders from 0 to 8
+I created the following folders and files:
 
-## 8. Commit details
-Commit message: `Set up Digital Detective mission structure`
+- `README.md`
+- `mission-00-setup/README.md`
+- `mission-01-computer-basics/README.md`
+- `mission-02-terminal/README.md`
+- `mission-03-operating-system/README.md`
+- `mission-04-programs/README.md`
+- `mission-05-numbers-data/README.md`
+- `mission-05-numbers-data/number_converter.py`
+- `mission-06-git-github/README.md`
+- `mission-07-networking/README.md`
+- `mission-08-final-report/README.md`
+- `evidence/`
 
-Commit and push status: [Update after doing it.]
+## What is a Repository?
+
+A repository is a place where we store project files and track changes made to them using Git and GitHub.
+
+I organised the project into separate mission folders because it makes the work easier to manage. Each mission has its own README file, so I can keep the information organised and find it easily.
+
+## Setup Difficulties
+
+[Write about any actual difficulty faced while creating the repository or setting up the folders, and explain how it was solved.]
+
+Status
+
+Mission 0 setup completed.
