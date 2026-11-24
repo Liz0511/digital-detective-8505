@@ -1,29 +1,30 @@
-# Mission 2 - Become comfortable with the Terminal
+# Mission 2 – Become Comfortable with the Terminal
 
-## 1. Task / objective
-The aim of this mission was to practise basic Terminal commands and learn how to create, copy, rename and view files.
+## 1. Task Completed
 
-## 2. Work completed
+In this mission, I practised using Terminal and learned how to work with files and folders using commands.
 
-### Task 2.1 - Basic commands
+## 2. Work Completed
+
+### Task 2.1 – Basic Commands
+
+I practised some basic Terminal commands.
 
 | Operation | Command | What it does |
 |---|---|---|
-| Show current folder | `pwd` | Shows where I am currently working |
+| Show current location | `pwd` | Shows the current folder |
 | List files | `ls` | Shows files and folders |
-| Detailed list | `ls -l` | Shows more details about files |
-| Go to parent folder | `cd ..` | Moves one folder back |
-| Create folder | `mkdir practice` | Creates a folder |
+| Detailed list | `ls -l` | Shows file details |
+| Go back one folder | `cd ..` | Moves to the parent folder |
+| Create folder | `mkdir practice` | Creates a new folder |
 | Create file | `touch notes.txt` | Creates an empty file |
-| Copy file | `cp notes.txt copy.txt` | Makes another copy |
+| Copy file | `cp notes.txt copy.txt` | Creates a copy |
 | Rename file | `mv copy.txt new-copy.txt` | Changes the file name |
-| View file | `cat notes.txt` | Displays the file content |
+| View file | `cat notes.txt` | Shows the file content |
 
-**What I observed:** [Run these commands in your repository and write what happened.]
+### Task 2.2 – File Practice
 
-### Task 2.2 - File practice
-
-These are the commands to practise inside the repository:
+I used the following commands to practise creating and copying files.
 
 ```bash
 mkdir terminal-practice
@@ -36,9 +37,13 @@ mv backup.txt renamed-backup.txt
 ls -l
 ```
 
-The `>` symbol writes content into a file. The `>>` symbol adds content at the end. Copying makes another file, but moving or renaming changes the location or name of the original file.
+After running these commands, I could create a folder, add text to a file, view its content, copy it and rename the copied file.
 
-### Task 2.3 - Flags and pipes
+I also learned that `>` replaces the existing content, while `>>` adds new content at the end.
+
+### Task 2.3 – Flags and Pipes
+
+I tried these commands:
 
 ```bash
 ls
@@ -46,39 +51,25 @@ ls -lah
 ls -lah | head
 ```
 
-I learned that flags change how a command works. For example, `-l` shows detailed information, `-a` includes hidden files and `-h` makes file sizes easier to read.
+I learned that flags give extra information when using commands. For example, `-l` shows details, `-a` shows hidden files and `-h` makes file sizes easier to understand.
 
-The pipe symbol `|` sends the output of one command to another command. Here, `head` displays only the first few lines.
+The pipe symbol `|` sends the output of one command to another. In this example, `head` shows the first few lines.
 
-### Task 2.4 - Package managers
+### Task 2.4 – Package Managers
 
-Homebrew is a package manager used on macOS. If it is already installed, I can check it using:
+I learned about Homebrew, which is a package manager for macOS.
+
+I used these commands to check it:
 
 ```bash
 brew --version
 brew list
 ```
 
-A package manager helps us install and update software. It also helps manage the other files or tools that a program needs. I did not install or remove anything for this task.
+A package manager helps us install and manage software on a computer.
 
-## 3. Commands / tools used
-`pwd`, `ls`, `cd`, `mkdir`, `touch`, `cp`, `mv`, `cat`, `echo`, `head` and, if installed, `brew`.
+## 3. Commands / Tools Used
 
-## 4. My understanding
-Earlier I mostly used folders through the file manager. Now I understand that we can do the same kind of work using Terminal commands. The current folder is important because commands work based on where we are.
+I used Terminal and practised these commands:
 
-## 5. Difficulties faced
-[Write the actual command or step that confused you. If none, write "No major difficulties".]
-
-## 6. How I resolved them
-[Write what helped you solve it, or write "Not applicable".]
-
-## 7. Evidence / files
-- `terminal-practice/notes.txt`
-- `terminal-practice/renamed-backup.txt`
-- [Add a safe screenshot if available.]
-
-## 8. Commit details
-Commit message: `Complete Terminal and file management mission`
-
-Commit and push status: [Update after doing it.]
+`pwd`, `ls`, `cd`, `mkdir`, `touch`, `cp`, `mv`, `cat`, `echo`, `head` and Homebrew commands.
