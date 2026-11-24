@@ -22,11 +22,8 @@ This is the final check of my assignment. I need to make sure all mission folder
 
 ### Submission details
 
-- Repository name: [Add]
-- GitHub repository URL: [Add]
-- `update-about` branch URL: [Add]
-- Pull Request URL: [Add]
-- Pull Request status: [Open / Merged]
+- Repository name: [digital-detective-8505]
+- GitHub repository URL: [(https://github.com/Liz0511/digital-detective-8505)]
 
 ## 3. Commands / tools used
 - `git status` - checks whether I have uncommitted changes.
@@ -38,19 +35,24 @@ This is the final check of my assignment. I need to make sure all mission folder
 This assignment helped me practise things that I had mostly only heard about before. I got to use Terminal, work with Python files, understand number systems and learn the basic GitHub workflow.
 
 ## 5. Difficulties faced
-[Write the main difficulty you faced during the assignment.]
+I found it a little difficult to manage all the mission folders and understand some Git commands.
 
 ## 6. How I resolved them
-[Write how you solved it and what helped you.]
+I followed the instructions, practised the commands and checked the files again.
 
 ## 7. Evidence / files
-- Main README
-- All nine mission folders
-- `hello.py`
-- `number_converter.py`
-- [Add any screenshots required by your instructor.]
+Root README.md
+
+Mission 0 to Mission 8 README files
+
+hello.py
+
+number_converter.py
+
+GitHub repository
+
 
 ## 8. Commit details
-Commit message: `Complete final report and verify assignment submission`
+Commit message: Complete final report and verify assignment submission.
 
-Commit and push status: [Update after doing it.]
+Status: Update after pushing the final changes.
