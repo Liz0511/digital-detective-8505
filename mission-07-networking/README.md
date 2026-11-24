@@ -52,17 +52,6 @@ DNS is useful because we normally remember website names instead of IP addresses
 I understood that the internet connects many networks together. DNS helps us find websites using their names. The router forwards data, and the browser works as a client that requests information from a server.
 
 ## 5. Difficulties faced
-[Write what happened when you tried the commands, or write "No major difficulties".]
+At first, I found DNS and packet switching a little confusing, but I understood them after learning their examples
 
-## 6. How I resolved them
-[Explain how you solved it, or write "Not applicable".]
 
-## 7. Evidence / files
-- Network concepts table
-- Website steps
-- [Add safe screenshots of your command results.]
-
-## 8. Commit details
-Commit message: `Explain networking concepts and website communication`
-
-Commit and push status: [Update after doing it.]
