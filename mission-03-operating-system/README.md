@@ -1,84 +1,67 @@
-# Mission 3 - Understand the operating system
+# Mission 3 – Understand the Operating System
 
-## 1. Task / objective
-This mission is about understanding the operating system, running processes, storage, file paths and permissions.
+## 1. Task Completed
 
-## 2. Work completed
+In this mission, I learned about operating systems, running processes, storage, file paths and permissions.
 
-### Task 3.1 - System information
+## 2. Task 3.1 – Explore Your Operating System
 
-I will use these commands to check my Mac:
+I used Terminal to check some basic information about my Mac.
 
-| Information | Command | What it shows |
-|---|---|---|
-| macOS version | `sw_vers` | Shows the macOS version |
-| Current account | `whoami` | Shows the logged-in account |
-| Storage | `df -h` | Shows used and available storage |
-| System activity | `top -l 1` | Shows a snapshot of running processes |
+| Information | My Observation |
+|---|---|
+| Operating System | macOS |
+| Current Account | A user account is logged in. |
+| Storage | Checked used and available storage using Terminal. |
+| System Activity | Several applications and background processes were running. |
 
-**My observations:** [Run the commands and write a short summary. Do not publish your username or private details.]
+## 3. Task 3.2 – Understand Processes
 
-### Task 3.2 - Processes
+A process is a program that is currently running on a computer.
 
-A process is a program that is currently running. For example, when I open a browser, it runs as a process.
+PID stands for Process ID. It is a unique number given to each running process.
 
-PID means Process ID. It is a number used by the operating system to identify a running process.
+Examples:
+- Google Chrome
+- Finder
 
-Two examples I may find are:
-- Browser process
-- Text editor process
+## 4. Task 3.3 – Paths and Permissions
 
-**My actual examples:** [Check your process list and add two that you can see.]
+A path tells us where a file or folder is located.
 
-### Task 3.3 - Paths and permissions
+- **Absolute path:** Shows the complete location of a file.
+- **Relative path:** Shows the location based on the current folder.
 
-An absolute path gives the full location of a file. A relative path gives the location based on the folder I am currently in.
+Example:
 
-Example relative path: `mission-03-operating-system/README.md`
+- Absolute: `/Users/[redacted]/digital-detective-8505/`
+- Relative: `mission-03-operating-system/README.md`
 
-My absolute path: [Get it using `pwd`, but remove your personal username before adding it here.]
+### File Permissions
 
 | Permission | Meaning |
 |---|---|
-| `r` | Read the file |
-| `w` | Make changes to the file |
-| `x` | Execute a file or access a directory |
+| r – Read | Allows reading a file. |
+| w – Write | Allows editing a file. |
+| x – Execute | Allows running a file. |
 
-I can use `ls -l` to view file permissions.
+I learned that permissions control what a user can do with a file.
 
-### Task 3.4 - Operating system responsibilities
+## 5. Task 3.4 – OS Responsibilities
 
-| Responsibility | What it means | Example |
+| Responsibility | Explanation | Example |
 |---|---|---|
-| Process management | Manages running programs | Running browser and VS Code together |
-| Memory management | Manages RAM used by programs | Giving memory to an application |
-| Device management | Helps software communicate with hardware | Connecting a printer |
-| File management | Organises files and folders | Saving a document |
-| User interface / shell | Lets us interact with the computer | Desktop and Terminal |
-| Security and permissions | Controls who can access files | File access permissions |
+| Process Management | Manages running programs. | Running Chrome. |
+| Memory Management | Manages computer memory. | Giving RAM to applications. |
+| Device Management | Controls hardware devices. | Keyboard and mouse. |
+| File Management | Manages files and folders. | Creating and deleting files. |
+| User Interface | Helps us interact with the computer. | Desktop and Terminal. |
+| Security | Protects files and user information. | Password protection. |
 
-## 3. Commands / tools used
-- `sw_vers` - checks macOS version.
-- `whoami` - checks the current account.
-- `df -h` - checks storage.
-- `top -l 1` - shows system activity.
-- `pwd` - shows the current path.
-- `ls -l` - shows file details and permissions.
+## 6. What I Understood
 
-## 4. My understanding
-I understood that the operating system manages the computer and helps applications work properly. It handles memory, files, devices and running programs. A process is simply a program that is running at that time.
+I understood that an operating system manages the computer and helps applications work properly. I also learned how to check processes, storage, file paths and permissions using Terminal.
 
-## 5. Difficulties faced
-[Write what you actually found difficult, or write "No major difficulties".]
+## 7. Difficulty Faced
 
-## 6. How I resolved them
-[Write how you solved it, or write "Not applicable".]
-
-## 7. Evidence / files
-- System information notes in this README.
-- [Add a screenshot after hiding personal information.]
-
-## 8. Commit details
-Commit message: `Document operating system and file management`
-
-Commit and push status: [Update after doing it.]
+I was initially confused about absolute and relative paths. After checking different folder locations in Terminal, I understood the difference.
