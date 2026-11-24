@@ -37,22 +37,3 @@ I chose the example of typing and saving a document.
 | Traffic signal | Controls traffic | Timer / sensor | Traffic lights |
 | Ticket machine | Gives travel tickets | Destination and payment | Ticket |
 
-## 3. Commands / tools used
-I used a text editor to prepare the tables. No Terminal commands were needed for this mission.
-
-## 4. My understanding
-I understood that a computer does four basic things: input, processing, output and storage. Hardware means the parts we can physically touch. Software is what we use to give instructions to the computer.
-
-What I Understood
-
-Before doing this activity, I mostly thought of a computer as a device used for browsing, coding and watching videos. Now I understand that almost every computer-based device follows the same basic IPOS process.
-
-I also understood the difference between hardware and software. Hardware is the physical part that we can touch, while software is the set of programs that tells the hardware what to do.
-
-Difficulty Faced
-
-At first, I was a little confused about the difference between processing and storage. I understood it better by using Google search as an example. Processing happens when the computer works on the request, while storage is used to save information for future use.
-
-Status
-
-Mission 1 completed. I finished all three tasks and understood the basic working of a computer system.
