@@ -1,5 +1,7 @@
-# Evidence
+# Evidence – Digital Detective
 
-I will add screenshots here after completing the missions.
+This folder is included for organising assignment evidence.
 
-Before uploading screenshots, I will hide personal details such as my username, email, device name, Wi-Fi name and IP address.
+No screenshots have been added because they are optional.
+
+All completed work, Python programs and explanations are available in their respective mission folders..
