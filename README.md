@@ -24,7 +24,7 @@ I will complete each mission, update its README, and push it to GitHub before mo
 
 ## My details
 
-- Name: Sravan Gupta Samudrala
-- USN: [Add if your instructor allows it to be public]
-- GitHub: [Add your GitHub username]
-- Repository: [Use digital-detective-XXXX, replacing XXXX with the last four digits of your USN]
+- Name: Liza Dsouza 
+- USN: [2392608505]
+- GitHub: [Liz0511]
+- Repository: [digital-detective-8505]
