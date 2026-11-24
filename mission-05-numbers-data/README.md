@@ -71,18 +71,6 @@ The `bin()` function converts an integer to binary. The `hex()` function convert
 ## 4. My understanding
 Binary uses only 0 and 1. Decimal uses numbers from 0 to 9. Hexadecimal uses 0 to 9 and A to F. I found that Python already has functions for these conversions, which makes checking the answers easier.
 
-## 5. Difficulties faced
-[Write what you found confusing while doing the conversions or program, or write "No major difficulties".]
+## 5. Difficulty Faced
 
-## 6. How I resolved them
-[Explain how you fixed it, or write "Not applicable".]
-
-## 7. Evidence / files
-- `number_converter.py`
-- Conversion table in this README
-- [Add your three actual test outputs.]
-
-## 8. Commit details
-Commit message: `Build number converter and practise data representation`
-
-Commit and push status: [Update after doing it.]
+At first, I found hexadecimal conversions a little confusing. After practising a few examples, I understood how to convert them using base 16.
