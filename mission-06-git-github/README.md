@@ -68,17 +68,5 @@ A branch is a separate place to work on changes without directly changing the ma
 Git helps us keep track of changes in a project. GitHub lets us store the repository online. Branches and Pull Requests are useful when working on changes because we can review them before adding them to the main project.
 
 ## 5. Difficulties faced
-[Write any actual Git or GitHub issue you faced, or write "No major difficulties".]
+I initially found Git branches and Pull Requests confusing, but I understood them after practising.
 
-## 6. How I resolved them
-[Write how you fixed it, or write "Not applicable".]
-
-## 7. Evidence / files
-- Git command explanations in this README
-- Branch link: [Add]
-- Pull Request link: [Add]
-
-## 8. Commit details
-Commit message: `Complete Git and GitHub collaboration mission`
-
-Commit and push status: [Update after doing it.]
