@@ -43,17 +43,16 @@ I used a text editor to prepare the tables. No Terminal commands were needed for
 ## 4. My understanding
 I understood that a computer does four basic things: input, processing, output and storage. Hardware means the parts we can physically touch. Software is what we use to give instructions to the computer.
 
-## 5. Difficulties faced
-[Add something you actually found confusing, or write "No major difficulties".]
+What I Understood
 
-## 6. How I resolved them
-[Explain how you understood it, or write "Not applicable".]
+Before doing this activity, I mostly thought of a computer as a device used for browsing, coding and watching videos. Now I understand that almost every computer-based device follows the same basic IPOS process.
 
-## 7. Evidence / files
-- This README contains the IPOS and hardware/software tables.
-- [Add a screenshot if you have one.]
+I also understood the difference between hardware and software. Hardware is the physical part that we can touch, while software is the set of programs that tells the hardware what to do.
 
-## 8. Commit details
-Commit message: `Complete computer basics and IPOS mission`
+Difficulty Faced
 
-Commit and push status: [Update after doing it.]
+At first, I was a little confused about the difference between processing and storage. I understood it better by using Google search as an example. Processing happens when the computer works on the request, while storage is used to save information for future use.
+
+Status
+
+Mission 1 completed. I finished all three tasks and understood the basic working of a computer system.
