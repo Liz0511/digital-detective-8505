@@ -40,7 +40,7 @@ I organised the project into separate mission folders because it makes the work 
 
 ## Setup Difficulties
 
-[Write about any actual difficulty faced while creating the repository or setting up the folders, and explain how it was solved.]
+While setting up the repository, I had to make sure that all the folders and files were organised properly. I checked the folder structure on GitHub and made sure that the required mission folders were present.
 
 Status
 
