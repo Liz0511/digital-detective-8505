@@ -1,15 +1,16 @@
-# A small program to convert a decimal number to binary and hexadecimal
 
-number_text = input("Enter a positive whole number: ")
+num = int(input("Enter a decimal number: "))
 
-try:
-    number = int(number_text)
+print("1. Convert to Binary")
+print("2. Convert to Hexadecimal")
 
-    if number <= 0:
-        print("Please enter a number greater than zero.")
-    else:
-        print("Binary:", bin(number))
-        print("Hexadecimal:", hex(number))
+choice = int(input("Enter your choice: "))
 
-except ValueError:
-    print("Please enter a valid whole number.")
+if choice == 1:
+    print("Binary:", bin(num)[2:])
+
+elif choice == 2:
+    print("Hexadecimal:", hex(num)[2:].upper())
+
+else:
+    print("Invalid choice")
