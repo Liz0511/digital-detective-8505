@@ -43,9 +43,8 @@ After pushing the branch, I need to open GitHub and create a Pull Request from `
 
 A branch is a separate place to work on changes without directly changing the main branch. A Pull Request is used to ask for those changes to be reviewed and merged.
 
-- Pull Request link: [Add after creating it.]
-- Status: [Open / Merged]
-- Merge: [Only if your instructor asks you to.]
+- Pull Request link: https://github.com/Liz0511/digital-detective-8505/pulls/1
+- Status: Open 
 
 ### Task 6.4 - Git command glossary
 
